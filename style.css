@@ -136,3 +136,14 @@ body {
 
   transition: 1s;
 }
+
+@media (max-width:768px) {
+  html {
+    font-size: 60%;
+  }
+}
+@media (max-width:425px) {
+  html {
+    font-size: 50%;
+  }
+}
