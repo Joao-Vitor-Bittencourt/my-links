@@ -137,6 +137,11 @@ body {
   transition: 1s;
 }
 
+#image img {
+  width: 100%;
+  border-radius: 100%;
+}
+
 @media (max-width:768px) {
   html {
     font-size: 60%;
